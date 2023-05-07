@@ -1,1 +1,2 @@
-# baby-roll
+# Baby learns to roll through Q-learning
+
