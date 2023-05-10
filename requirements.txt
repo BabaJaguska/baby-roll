@@ -1,7 +1,5 @@
 streamlit
 matplotlib
-seaborn==0.12.1
-time
-random
+seaborn
 numpy
 pandas
